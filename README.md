@@ -1,78 +1,135 @@
-# 👋 Hi, I'm Sheriyar
+# 👋 Hi, I'm Sheriyar  
 
-### 🚀 Shopify | WordPress | Ecommerce Development Specialist
+### 🚀 Shopify | WordPress | Ecommerce Development Specialist  
 
-I specialize in building high-converting, scalable, and performance-optimized eCommerce stores using **Shopify** and **WordPress**.
+I build high-performing, conversion-focused ecommerce experiences using Shopify and WordPress.  
+From custom theme development to full-scale store launches — I turn ideas into revenue-driven platforms.
 
-From custom theme development to complete store launches, I help brands create seamless online shopping experiences that drive results.
+# 🛠️ Core Expertise
 
----
-
-## 🛠️ My Expertise
-
-- 🛍️ Shopify Store Development
-- 🎨 Custom Theme Customization
-- ⚡ Performance Optimization
-- 🛒 Ecommerce UI/UX Design
-- 🔧 WordPress Development
-- 💳 Payment Gateway Integration
-- 📦 Product & Inventory Setup
-- 📈 Conversion Optimization
-
+✔ Shopify Custom Development  
+✔ WordPress & WooCommerce  
+✔ High-Converting UI/UX  
+✔ Speed & Performance Optimization  
+✔ Payment Gateway Integration  
+✔ SEO-Ready Architecture  
 ---
 
 # 🛍️ Shopify Projects
 
-| Store Name | Live Website |
-|------------|-------------|
-| Voyalla | https://www.voylla.com/ |
-| Image1993 | https://pk.image1993.com/ |
-| Zyanove | https://zaynove.store/ |
-| UK Adhesives | https://ukadhesives.myshopify.com/ |
-| Evolved Chargers | https://evolvedchargers.com/ |
-| Culture Goods | https://culture-goods.com/ |
-| MilkJar | https://milkjar.ca/ |
-| Wilde Protein Snacks | https://www.wildebrands.com/ |
-| Wardrose | https://wardrose.velmarka.com/ |
-| Bulk Kratom | https://bulkkratomnow.com/ |
-| Meshki | https://www.meshki.com.au/ |
+### ✨ Voyalla  
+[🚀 View Live Store](https://www.voylla.com/)
+
+---
+
+### ✨ Image1993  
+[🚀 View Live Store](https://pk.image1993.com/)
+
+---
+
+### ✨ Zaynove  
+[🚀 View Live Store](https://zaynove.store/)
+
+---
+
+### ✨ UK Adhesives  
+[🚀 View Live Store](https://ukadhesives.myshopify.com/)
+
+---
+
+### ✨ Evolved Chargers  
+[🚀 View Live Store](https://evolvedchargers.com/)
+
+---
+
+### ✨ Culture Goods  
+[🚀 View Live Store](https://culture-goods.com/)
+
+---
+
+### ✨ MilkJar  
+[🚀 View Live Store](https://milkjar.ca/)
+
+---
+
+### ✨ Wilde Protein Snacks  
+[🚀 View Live Store](https://www.wildebrands.com/)
+
+---
+
+### ✨ Wardrose  
+[🚀 View Live Store](https://wardrose.velmarka.com/)
+
+---
+
+### ✨ Bulk Kratom  
+[🚀 View Live Store](https://bulkkratomnow.com/)
+
+---
+
+### ✨ Meshki  
+[🚀 View Live Store](https://www.meshki.com.au/)
 
 ---
 
 # 🌐 WordPress Projects
 
-| Website Name | Live Website |
-|--------------|-------------|
-| Valsenyc | https://valsenyc.com/ |
-| Lumeno | https://lumeno.pk/ |
-| Rivox | https://rivox.pk/ |
-| Zed Jackets | https://zedjackets.com/ |
-| JTJ Vending | https://jtjvending.wuaze.com/?i=1 |
-| Weslamic | https://weslamic.co.uk/ |
-| Sandybrown | https://sandybrown-goat-777960.hostingersite.com/ |
-| Minesite Furniture | https://minesitefurniture.evolisyss.com/ |
-| Fitness Creed | https://fitnesscreed.net/ |
-| Reboot Digital | https://rebootdigital.in/ |
+### 🚀 Valsenyc  
+[🌍 Explore Website](https://valsenyc.com/)
 
 ---
 
-## 💼 What I Deliver
-
-✔ Fully Responsive Stores  
-✔ Mobile Optimized Design  
-✔ Fast Loading Speed  
-✔ SEO Friendly Structure  
-✔ Secure Payment Integration  
-✔ Modern & Clean UI  
+### 🚀 Lumeno  
+[🌍 Explore Website](https://lumeno.pk/)
 
 ---
 
-## 📫 Let's Work Together
-
-If you're looking for a reliable **Shopify or WordPress Ecommerce Developer**, feel free to connect.
-
-> ⭐ Don't forget to star this repository if you like my work!
+### 🚀 Rivox  
+[🌍 Explore Website](https://rivox.pk/)
 
 ---
 
-### 🔥 Building Digital Stores That Convert.
+### 🚀 Zed Jackets  
+[🌍 Explore Website](https://zedjackets.com/)
+
+---
+
+### 🚀 JTJ Vending  
+[🌍 Explore Website](https://jtjvending.wuaze.com/?i=1)
+
+---
+
+### 🚀 Weslamic  
+[🌍 Explore Website](https://weslamic.co.uk/)
+
+---
+
+### 🚀 Sandybrown  
+[🌍 Explore Website](https://sandybrown-goat-777960.hostingersite.com/)
+
+---
+
+### 🚀 Minesite Furniture  
+[🌍 Explore Website](https://minesitefurniture.evolisyss.com/)
+
+---
+
+### 🚀 Fitness Creed  
+[🌍 Explore Website](https://fitnesscreed.net/)
+
+---
+
+### 🚀 Reboot Digital  
+[🌍 Explore Website](https://rebootdigital.in/)
+
+---
+
+
+
+---
+
+# 📩 Let’s Work Together
+
+If you're looking for a reliable ecommerce developer who delivers clean, scalable and revenue-focused solutions — let's connect.
+
+⭐ Star this repository if you appreciate quality development.
