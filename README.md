@@ -38,7 +38,35 @@ I build high-converting, scalable ecommerce experiences using Shopify & WordPres
 
 ## 🛠️ Expertise
 
-`Shopify` • `WordPress` • `WooCommerce` • `UI/UX` • `Speed Optimization` • `SEO` • `Conversion Optimization`
+## 🛠️ Expertise
+
+<details>
+<summary>🛍️ Shopify Development</summary>
+
+Custom Themes • Shopify 2.0 • App Integration • Store Optimization • Speed Enhancement
+
+</details>
+
+<details>
+<summary>🌐 WordPress & WooCommerce</summary>
+
+Custom Development • WooCommerce Setup • Elementor • Plugin Integration • Secure Architecture
+
+</details>
+
+<details>
+<summary>🎯 Ecommerce Optimization</summary>
+
+UI/UX Design • Mobile-First • SEO Structure • Payment Integration • Conversion Optimization
+
+</details>
+
+<details>
+<summary>⚡ Technical Strength</summary>
+
+Clean Code • Responsive Design • Performance Optimization • Cross-Browser Support • Scalable Solutions
+
+</details>
 
 <br>
 
