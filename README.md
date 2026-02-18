@@ -1,30 +1,94 @@
-# ✦ Sheriyar
+# Sheriyar
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:833ab4,50:fd1d1d,100:fcb045&height=1&section=header)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a00e0&height=120&section=header&fontSize=0"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=Ecommerce+Developer+%7C+Digital+Craftsman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=Ecommerce+Developer" alt="Typing" />
 
 <br>
-<br>
 
-<a href="mailto:your-email">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-ffffff20?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="your-linkedin">
-<img src="https://img.shields.io/badge/LINKEDIN-ffffff20?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+I help brands build **high-converting** online stores
 
 <br>
 <br>
 
-```
-Shopify  ·  WordPress  ·  WooCommerce
-```
+[<img src="https://img.shields.io/badge/Shopify-Expert-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white"/>](#-shopify-projects)
+[<img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>](#-wordpress-projects)
+[<img src="https://img.shields.io/badge/Hire%20Me-EA4C89?style=for-the-badge"/>](mailto:your-email)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## <img src="https://img.icons8.com/color/28/shopify.png"/> Shopify Projects
+
+> Click to visit live stores
+
+<br>
+
+| | | |
+|:---:|:---:|:---:|
+| [![Meshki](https://img.shields.io/badge/Meshki-000?style=for-the-badge)](https://www.meshki.com.au/) | [![Voylla](https://img.shields.io/badge/Voylla-000?style=for-the-badge)](https://www.voylla.com/) | [![Wilde Brands](https://img.shields.io/badge/Wilde_Brands-000?style=for-the-badge)](https://www.wildebrands.com/) |
+| [![MilkJar](https://img.shields.io/badge/MilkJar-000?style=for-the-badge)](https://milkjar.ca/) | [![Evolved Chargers](https://img.shields.io/badge/Evolved_Chargers-000?style=for-the-badge)](https://evolvedchargers.com/) | [![Culture Goods](https://img.shields.io/badge/Culture_Goods-000?style=for-the-badge)](https://culture-goods.com/) |
+| [![Image1993](https://img.shields.io/badge/Image1993-000?style=for-the-badge)](https://pk.image1993.com/) | [![Zaynove](https://img.shields.io/badge/Zaynove-000?style=for-the-badge)](https://zaynove.store/) | [![UK Adhesives](https://img.shields.io/badge/UK_Adhesives-000?style=for-the-badge)](https://ukadhesives.myshopify.com/) |
+| [![Wardrose](https://img.shields.io/badge/Wardrose-000?style=for-the-badge)](https://wardrose.velmarka.com/) | [![Bulk Kratom](https://img.shields.io/badge/Bulk_Kratom-000?style=for-the-badge)](https://bulkkratomnow.com/) | |
+
+<br>
+
+---
+
+<br>
+
+## <img src="https://img.icons8.com/color/28/wordpress.png"/> WordPress Projects
+
+> Click to visit live sites
+
+<br>
+
+| | | |
+|:---:|:---:|:---:|
+| [![Valsenyc](https://img.shields.io/badge/Valsenyc-1a1a2e?style=for-the-badge)](https://valsenyc.com/) | [![Lumeno](https://img.shields.io/badge/Lumeno-1a1a2e?style=for-the-badge)](https://lumeno.pk/) | [![Zed Jackets](https://img.shields.io/badge/Zed_Jackets-1a1a2e?style=for-the-badge)](https://zedjackets.com/) |
+| [![Rivox](https://img.shields.io/badge/Rivox-1a1a2e?style=for-the-badge)](https://rivox.pk/) | [![Weslamic](https://img.shields.io/badge/Weslamic-1a1a2e?style=for-the-badge)](https://weslamic.co.uk/) | [![Fitness Creed](https://img.shields.io/badge/Fitness_Creed-1a1a2e?style=for-the-badge)](https://fitnesscreed.net/) |
+| [![Reboot Digital](https://img.shields.io/badge/Reboot_Digital-1a1a2e?style=for-the-badge)](https://rebootdigital.in/) | [![Minesite](https://img.shields.io/badge/Minesite_Furniture-1a1a2e?style=for-the-badge)](https://minesitefurniture.evolisyss.com/) | [![Sandybrown](https://img.shields.io/badge/Sandybrown-1a1a2e?style=for-the-badge)](https://sandybrown-goat-777960.hostingersite.com/) |
+
+<br>
+
+---
+
+<br>
+
+## 🛠️ Services
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| 🛒 | 🎨 | ⚡ | 📈 |
+| **Custom Stores** | **UI/UX Design** | **Speed Optimization** | **SEO & Growth** |
+| Shopify & WooCommerce | Modern & Clean | Fast Load Times | Rank Higher |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
+
+| Projects Delivered | Happy Clients | Years Experience |
+|:---:|:---:|:---:|
+| **50+** | **40+** | **4+** |
 
 </div>
 
@@ -36,169 +100,29 @@ Shopify  ·  WordPress  ·  WooCommerce
 
 <div align="center">
 
-### ◈ SHOPIFY STORES
+## Ready to grow your business?
 
 <br>
 
-<a href="https://www.meshki.com.au/">
-<img src="https://img.shields.io/badge/Meshki-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://www.voylla.com/">
-<img src="https://img.shields.io/badge/Voylla-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://www.wildebrands.com/">
-<img src="https://img.shields.io/badge/Wilde_Brands-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://milkjar.ca/">
-<img src="https://img.shields.io/badge/MilkJar-ffffff10?style=flat-square"/>
-</a>
+[<img src="https://img.shields.io/badge/📧_Email_Me-4a00e0?style=for-the-badge"/>](mailto:your-email)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge"/>](your-linkedin)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge"/>](your-portfolio)
 
 <br>
 <br>
 
-<a href="https://evolvedchargers.com/">
-<img src="https://img.shields.io/badge/Evolved_Chargers-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://culture-goods.com/">
-<img src="https://img.shields.io/badge/Culture_Goods-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://pk.image1993.com/">
-<img src="https://img.shields.io/badge/Image1993-ffffff10?style=flat-square"/>
-</a>
-
-<br>
-<br>
-
-<a href="https://zaynove.store/">
-<img src="https://img.shields.io/badge/Zaynove-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://ukadhesives.myshopify.com/">
-<img src="https://img.shields.io/badge/UK_Adhesives-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://bulkkratomnow.com/">
-<img src="https://img.shields.io/badge/Bulk_Kratom-ffffff10?style=flat-square"/>
-</a>
-
-</div>
-
-<br>
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### ◈ WORDPRESS SITES
-
-<br>
-
-<a href="https://valsenyc.com/">
-<img src="https://img.shields.io/badge/Valsenyc-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://lumeno.pk/">
-<img src="https://img.shields.io/badge/Lumeno-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://zedjackets.com/">
-<img src="https://img.shields.io/badge/Zed_Jackets-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://rivox.pk/">
-<img src="https://img.shields.io/badge/Rivox-ffffff10?style=flat-square"/>
-</a>
-
-<br>
-<br>
-
-<a href="https://weslamic.co.uk/">
-<img src="https://img.shields.io/badge/Weslamic-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://fitnesscreed.net/">
-<img src="https://img.shields.io/badge/Fitness_Creed-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://rebootdigital.in/">
-<img src="https://img.shields.io/badge/Reboot_Digital-ffffff10?style=flat-square"/>
-</a>
-
-<br>
-<br>
-
-<a href="https://minesitefurniture.evolisyss.com/">
-<img src="https://img.shields.io/badge/Minesite_Furniture-ffffff10?style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://sandybrown-goat-777960.hostingersite.com/">
-<img src="https://img.shields.io/badge/Sandybrown-ffffff10?style=flat-square"/>
-</a>
-
-</div>
-
-<br>
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### ◈ EXPERTISE
-
-<br>
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ○ Custom Store Development                        │
-│   ○ Speed & Performance Optimization                │
-│   ○ UI/UX Design                                    │
-│   ○ SEO & Conversion Optimization                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=Let's%20Create%20Together&fontSize=24&fontColor=888888&animation=fadeIn"/>
-
-<br>
-
-<a href="mailto:your-email">
-<img src="https://img.shields.io/badge/✉_your@email.com-ffffff08?style=for-the-badge"/>
-</a>
-
-<br>
-<br>
-
-`Available for Projects`
-
-<br>
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=80&section=footer&fontSize=0)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a00e0&height=100&section=footer&fontSize=0"/>
 
 </div>
 
 ---
 
+**Want changes?**
+- Different colors? (blue, green, orange)
+- Add GitHub activity snake animation?
+- More minimal?
+- Add testimonials section?
+
+Let me know! 🎯
