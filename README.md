@@ -7,11 +7,6 @@ I build high-converting, scalable ecommerce experiences using Shopify & WordPres
 
 ## 🛍️ Shopify Portfolio
 
-<details>
-<summary><strong>View Shopify Projects</strong></summary>
-
-<br>
-
 • **Voyalla** — [View Store](https://www.voylla.com/)  
 • **Image1993** — [View Store](https://pk.image1993.com/)  
 • **Zaynove** — [View Store](https://zaynove.store/)  
@@ -24,16 +19,9 @@ I build high-converting, scalable ecommerce experiences using Shopify & WordPres
 • **Bulk Kratom** — [View Store](https://bulkkratomnow.com/)  
 • **Meshki** — [View Store](https://www.meshki.com.au/)  
 
-</details>
-
 <br>
 
 ## 🌐 WordPress Portfolio
-
-<details>
-<summary><strong>View WordPress Projects</strong></summary>
-
-<br>
 
 • **Valsenyc** — [Visit Website](https://valsenyc.com/)  
 • **Lumeno** — [Visit Website](https://lumeno.pk/)  
@@ -46,8 +34,6 @@ I build high-converting, scalable ecommerce experiences using Shopify & WordPres
 • **Fitness Creed** — [Visit Website](https://fitnesscreed.net/)  
 • **Reboot Digital** — [Visit Website](https://rebootdigital.in/)  
 
-</details>
-
 <br>
 
 ## 🛠️ Expertise
@@ -58,4 +44,4 @@ I build high-converting, scalable ecommerce experiences using Shopify & WordPres
 
 ### 📩 Let’s Build Something Powerful
 
-⭐ If you appreciate clean development and scalable ecommerce solutions, feel free to connect.
+Professional ecommerce solutions built for growth.
