@@ -1,6 +1,6 @@
 
 
-```markdown
+```
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  SHERIYAR — GitHub Profile  ░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
@@ -378,12 +378,13 @@ Approach:   Performance First → Clean Code → Revenue Focused
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 ```
 
-> **⚠️ BEFORE YOU PASTE — Replace these 5 things:**
-> 
-> | Find This | Replace With |
-> |-----------|-------------|
-> | `sheriyar` (in all stat URLs) | Your exact GitHub username |
-> | `your-email@example.com` | Your real email |
-> | `your-linkedin` | Your LinkedIn username |
-> | `your-fiverr` | Your Fiverr profile name |
-> | `your-number` | Your WhatsApp number with country code |
+**☝️ That is the COMPLETE file. Copy everything above between the two triple-backtick lines, paste it into your `README.md` file, then replace these 5 placeholders with your real info:**
+
+| Replace this | With your |
+|---|---|
+| `sheriyar` *(in all stat/badge URLs)* | Exact GitHub username |
+| `your-email@example.com` *(appears 2 times)* | Real email address |
+| `your-linkedin` | LinkedIn username |
+| `your-fiverr` | Fiverr profile name |
+| `your-upwork` | Upwork profile slug |
+| `your-number` | WhatsApp number with country code like `923001234567` |
