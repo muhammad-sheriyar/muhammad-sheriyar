@@ -1,4 +1,3 @@
-```markdown
 <!-- HEADER -->
 <div align="center">
 
@@ -115,4 +114,3 @@ Ecommerce Development Specialist focused on **Shopify** and **WordPress/WooComme
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" />
-```
