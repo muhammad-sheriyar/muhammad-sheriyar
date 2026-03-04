@@ -32,36 +32,40 @@ I'm an **Ecommerce Development Specialist** focused on building scalable, high-c
 
 ### 🛍️ Shopify Stores
 
-| Store | Link |
-|:------|:----:|
-| **Voyalla** — Fashion & Jewelry | [↗ Live](https://www.voylla.com/) |
-| **Image1993** — Lifestyle Brand | [↗ Live](https://pk.image1993.com/) |
-| **Zaynove** — Modern Ecommerce | [↗ Live](https://zaynove.store/) |
-| **UK Adhesives** — Industrial B2B | [↗ Live](https://ukadhesives.myshopify.com/) |
-| **Evolved Chargers** — Tech Accessories | [↗ Live](https://evolvedchargers.com/) |
-| **Culture Goods** — Culture-Driven Brand | [↗ Live](https://culture-goods.com/) |
-| **MilkJar** — Premium Candles | [↗ Live](https://milkjar.ca/) |
-| **Wilde Protein Snacks** — Health & Snacks | [↗ Live](https://www.wildebrands.com/) |
-| **Wardrose** — Fashion Wardrobe | [↗ Live](https://wardrose.velmarka.com/) |
-| **Bulk Kratom** — Wholesale Health | [↗ Live](https://bulkkratomnow.com/) |
-| **Meshki** — Premium Fashion Label | [↗ Live](https://www.meshki.com.au/) |
+<div align="center">
+
+[![Voyalla](https://img.shields.io/badge/Voyalla-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://www.voylla.com/)
+[![Image1993](https://img.shields.io/badge/Image1993-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://pk.image1993.com/)
+[![Zaynove](https://img.shields.io/badge/Zaynove-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://zaynove.store/)
+[![UK Adhesives](https://img.shields.io/badge/UK_Adhesives-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://ukadhesives.myshopify.com/)
+[![Evolved Chargers](https://img.shields.io/badge/Evolved_Chargers-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://evolvedchargers.com/)
+[![Culture Goods](https://img.shields.io/badge/Culture_Goods-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://culture-goods.com/)
+[![MilkJar](https://img.shields.io/badge/MilkJar-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://milkjar.ca/)
+[![Wilde Brands](https://img.shields.io/badge/Wilde_Brands-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://www.wildebrands.com/)
+[![Wardrose](https://img.shields.io/badge/Wardrose-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://wardrose.velmarka.com/)
+[![Bulk Kratom](https://img.shields.io/badge/Bulk_Kratom-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://bulkkratomnow.com/)
+[![Meshki](https://img.shields.io/badge/Meshki-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://www.meshki.com.au/)
+
+</div>
 
 ---
 
 ### 🌐 WordPress Websites
 
-| Website | Link |
-|:--------|:----:|
-| **Valsenyc** — NYC Business | [↗ Visit](https://valsenyc.com/) |
-| **Lumeno** — Pakistan Brand | [↗ Visit](https://lumeno.pk/) |
-| **Rivox** — Digital Commerce | [↗ Visit](https://rivox.pk/) |
-| **Zed Jackets** — Leather Jackets | [↗ Visit](https://zedjackets.com/) |
-| **JTJ Vending** — Vending Services | [↗ Visit](https://jtjvending.wuaze.com/?i=1) |
-| **Weslamic** — UK Islamic Products | [↗ Visit](https://weslamic.co.uk/) |
-| **Sandybrown** — Design Studio | [↗ Visit](https://sandybrown-goat-777960.hostingersite.com/) |
-| **Minesite Furniture** — Furniture Store | [↗ Visit](https://minesitefurniture.evolisyss.com/) |
-| **Fitness Creed** — Fitness & Wellness | [↗ Visit](https://fitnesscreed.net/) |
-| **Reboot Digital** — Digital Agency | [↗ Visit](https://rebootdigital.in/) |
+<div align="center">
+
+[![Valsenyc](https://img.shields.io/badge/Valsenyc-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://valsenyc.com/)
+[![Lumeno](https://img.shields.io/badge/Lumeno-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://lumeno.pk/)
+[![Rivox](https://img.shields.io/badge/Rivox-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://rivox.pk/)
+[![Zed Jackets](https://img.shields.io/badge/Zed_Jackets-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://zedjackets.com/)
+[![JTJ Vending](https://img.shields.io/badge/JTJ_Vending-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://jtjvending.wuaze.com/?i=1)
+[![Weslamic](https://img.shields.io/badge/Weslamic-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://weslamic.co.uk/)
+[![Sandybrown](https://img.shields.io/badge/Sandybrown-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://sandybrown-goat-777960.hostingersite.com/)
+[![Minesite Furniture](https://img.shields.io/badge/Minesite_Furniture-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://minesitefurniture.evolisyss.com/)
+[![Fitness Creed](https://img.shields.io/badge/Fitness_Creed-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://fitnesscreed.net/)
+[![Reboot Digital](https://img.shields.io/badge/Reboot_Digital-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://rebootdigital.in/)
+
+</div>
 
 ---
 
